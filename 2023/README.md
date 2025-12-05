@@ -1,4 +1,4 @@
-# clj
+# advent-of-code-2023
 
 FIXME: description
 
@@ -10,7 +10,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar clj-0.1.0-standalone.jar [args]
+    $ java -jar advent-of-code-2023-0.1.0-standalone.jar [args]
 
 ## Options
 
